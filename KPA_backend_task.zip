@@ -1,1 +1,5 @@
-Deleted KPA_backend_task.zip
+git init
+git remote add origin https://github.com/tanmaydumbre/kpa_backend_task.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
